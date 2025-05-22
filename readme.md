@@ -10,3 +10,13 @@
 ## 8. Java End-of-file
 ## 9. Java Static Initializer Block
 ## 10. Java Int to String
+## 11. Java Date and Time
+## 12. Java Currency Formatter
+## 13. Java Strings Introduction
+## 14. Java Substring
+## 15. Java Substring Comparisons
+## 16. Java String Reverse
+## 17. Java Anagrams
+## 18. Java String Tokens
+## 19. Pattern Syntax Checker
+## 20. Valid Username Regular Expression
